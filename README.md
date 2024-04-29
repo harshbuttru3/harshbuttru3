@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Shivam and I'm a Cybersec Enthusiast , from India.</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D72A&multiline=true&random=false&width=458&height=59&lines=Hi+%F0%9F%91%8B!+My+name+is+Shivam.;+I'm+a+Cybersec+Enthusiast+%2C+from+India.)](https://git.io/typing-svg)
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/harshbuttru3/harshbuttru3/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
