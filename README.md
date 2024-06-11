@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=noob-developer&color=D14836&logoColor=white&labelColor=&style=flat" height="38" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="38" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=flat" height="38" alt="tryhackme logo"  />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/127.0.0.1p7777.png" alt="TryHackMe">
 </div>
 
 ###
